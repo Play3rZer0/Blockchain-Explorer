@@ -14,3 +14,6 @@ npm start
 This project uses Alchemy SDK as its main library.
 
 e.q. alchemy.core.getBlockNumber()
+
+NOTE: Use an environment variable for apiKey by creating an .env file. This will
+be needed to connect to an Ethereum node on the Alchemy network.
